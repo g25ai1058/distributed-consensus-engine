@@ -1,2 +1,3 @@
 __pycache__
 paxos.cpython-313.pyc
+src/byzantine_faults/__pycache__/
