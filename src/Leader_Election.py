@@ -111,4 +111,5 @@ print(f"New Leader Elected: Node {leader}\n")
 while True:
     print(f"Leader {leader} heartbeat")
     time.sleep(1)
+print("Transaction Committed")
     
